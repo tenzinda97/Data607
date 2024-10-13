@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<books>
+	<book id="1">
+		<title>Black Girls Must Die Exhausted</title>
+		<authors>
+			<author>Jayne Allen</author>
+		</authors>
+    <isbn13>9780063137905</isbn13>
+    <publicationyear>2021</publicationyear>
+    <pages>368</pages>
+	</book>
+	<book id="2">
+		<title>The Coldest Winter Ever</title>
+		<authors>
+			<author>Sister Souljah</author>
+		</authors>
+		<isbn13>9780743270106</isbn13>
+    <publicationyear>2005</publicationyear>
+    <pages>368</pages>
+	</book>
+	<book id="3">
+		<title>One of the Good One</title>
+		<authors>
+			<author>Malika Moulite</author>
+			<author>Martiza Moulite</author>
+		</authors>
+		<isbn13>9781335426253</isbn13>
+    <publicationyear>2022</publicationyear>
+    <pages>352</pages>
+	</book>
+</books>

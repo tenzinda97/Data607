@@ -1,0 +1,25 @@
+{
+"books": [
+  {
+    "title": "Black Girls Must Die Exhausted",
+    "author": "Jayne Allen",
+    "isbn13": "9780063137905",
+    "publication year": "2021",
+    "pages": "368"
+  },
+  {
+    "title": "The Coldest Winter Ever",
+    "author": "Sister Souljah",
+    "isbn13": "9780743270106",
+    "publication year": "2005",
+    "pages": "368"
+  },
+  {
+    "title": "One of the Good Ones",
+    "author": "Malika Moulite, Martiza Moulite",
+    "isbn13": "9781335426253",
+    "publication year": "2022",
+    "pages": "352"
+  }
+]
+}
